@@ -11,7 +11,6 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         Text("Hello, World! - Welcome to CI/CD - Email Test")
-        Text("Hello, World! - Welcome to CI/CD - Email Test")
     }
 }
 
